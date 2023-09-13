@@ -1,6 +1,6 @@
 <h1>Cadastro de Alunos em Java, utilizando Programação Orientada a Objetos POO</h1>
 
-Este programa Java permite gerenciar um cadastro de estudantes com as seguintes funcionalidades:
+Este programa foi uma atividade Java proposta na minha faculdade de Ciência da computação, onde permite gerenciar um cadastro de estudantes com as seguintes funcionalidades:
 
 <h2>Cadastro de Estudantes:</h2>
 
